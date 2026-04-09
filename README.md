@@ -4,7 +4,7 @@
 
 - My name is Bright Ibama, an IT professional with over 4 years of experience.
 - I started my career as a help desk support and cinema projectionist for one of the biggest cinemas in Nigeria
-- I am currently the IT Lead at a fast rising oil and gas company where may responsibilities cut across technical and managerial duties.
+- I am currently the IT Lead at a fast rising oil and gas company where my responsibilities cut across technical and managerial duties.
 
 ## Technologies I Have Used
 - Servers: Windows 2016,2019, 2022/Linux Ubuntu, CenthOS
