@@ -5,18 +5,20 @@
 - My name is Bright Ibama, an IT professional with over 4 years of experience.
 - I started my career as a help desk support and cinema projectionist for one of the biggest cinemas in Nigeria
 - I am currently the IT Lead at a fast rising oil and gas company where my responsibilities cut across technical and managerial duties.
+- My approach goes beyond tools and systems. I focus on people. I believe that technology is only as effective as the experience it creates, which is why I prioritize listening, understanding user needs, and removing IT bottlenecks that hinder productivity
 
 ## Technologies I Have Used
-- Servers: Windows 2016,2019, 2022/Linux Ubuntu, CenthOS
+- Servers: Windows 2016,2019, 2022/Linux Ubuntu, CenthOS, PROXMOX, ESXI
 - Active Directory
 - OS: Windows/Linux/Mac/ios/Andriod
-- Firewall: Untangle Nextgen(Arista)
+- Firewall: Untangle Nextgen(Arista)/Fortigate/Sophos
 - Group Policy Management Consol
-- Networking
+- Networking/VPN/ DNS /
 - Cloud: Azure
-- Virtualization: Vmware/Hyper-V/Virtual box
-- Endpoint Managaement: Action1
+- Virtualization: Vmware/Hyper-V/Virtual box/Proxmox
+- Endpoint Managaement: Action1, Intune
 - Monitoring: PRTG, Zabbix
+- Webhosting/Cpanel and Web management / WordPress
 
 
 ## I am Currently Working On
